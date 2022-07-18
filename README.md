@@ -1,5 +1,5 @@
 ## Hey 👋 Soy [Jhon!](https://mejhon.dev)
-I'm Jhon Lescano, a software engineer from Quito,Ecuador.I'm a Frontend developer in [Next.js](https://nextjs.org). I'm versatile and productive about learning new technologies.
+I'm Jhon Lescano, a software engineer from Quito,Ecuador. I'm versatile and productive about learning new technologies.
 
 <br/>
 
