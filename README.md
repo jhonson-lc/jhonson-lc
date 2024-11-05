@@ -23,7 +23,7 @@ I'm Jhon Lescano, a software engineer from Quito,Ecuador. I'm versatile and prod
 
 - 🔭 I’m currently studying [UTA](https://www.uta.edu.ec/).
 - 🌱 I’m currently working with [Next.js](https://nextjs.org).
-- 👯 Owner of [Homepage](https://jhonson.dev).
+- 👯 Owner of [Homepage](https://jhon.vercel.app).
 
 <br />
 
